@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858335201635",
+    "project_id": "fireb-authentication-6a57b",
+    "storage_bucket": "fireb-authentication-6a57b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858335201635:android:e6612466e7c947aebd2b56",
+        "android_client_info": {
+          "package_name": "com.example.leson9firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858335201635-vqg50dc5qnnlpt4h3kdg49mldroef25s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIAvaryAFzpt5T1y6FdhU9AHsL94t52I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858335201635-vqg50dc5qnnlpt4h3kdg49mldroef25s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
